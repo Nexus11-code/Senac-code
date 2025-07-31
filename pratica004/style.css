@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+
+h1 {
+    font-family: "Parisienne", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: lightcoral;
+}
+
+h2 {
+    color: lightblue;
+    font-weight: bold;
+}
+a{
+    color: lightgreen;
+    text-decoration: none;
+}
+a :visited {
+    color: lightpink;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+.especial:hover {
+    color:white;
+    background-color: black;
+    text-decoration: none;
+}
